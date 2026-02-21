@@ -425,11 +425,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-demo-project",
-          title: 'Demo Project',
-          description: "A demo project to test the selected projects section on the homepage.",
+            },},{id: "projects-autonomous-drone-racing-with-reinforcement-learning",
+          title: 'Autonomous Drone Racing with Reinforcement Learning',
+          description: "Implemented the Proximal Policy Optimization (PPO) algorithm. Trained the policy in NVIDIA Isaac Lab simulator, with appropriate state space and reward function design and domain randomization. Successfully transferred the policy to real world.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/demo_project/";
+              window.location.href = "/projects/ese651/";
             },},{
         id: 'social-cv',
         title: 'CV',
