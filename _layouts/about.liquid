@@ -69,14 +69,7 @@ layout: default
       <h2>
         <a href="{{ '/projects/' | relative_url }}" style="color: inherit">selected projects</a>
       </h2>
-      <div class="projects">
-        <div class="row row-cols-1 row-cols-md-3">
-          {% assign selected_projects = site.projects | where: "selected", true | sort: "importance" %}
-          {% for project in selected_projects %}
-            {% include projects.liquid %}
-          {% endfor %}
-        </div>
-      </div>
+      {% include selected_projects.liquid %}
     {% endif %}
 
     <!-- Social -->

@@ -1,0 +1,35 @@
+<div class="publications">
+  <ol class="bibliography">
+    {% assign selected_projects = site.projects | where: "selected", true | sort: "importance" %}
+    {% for project in selected_projects %}
+      <li>
+        <div class="row">
+          <div class="col col-sm-2 abbr">
+            {% if project.img %}
+              {% if project.img contains '://' %}
+                <img class="preview z-depth-1 rounded" src="{{ project.img }}">
+              {% else %}
+                {%
+                  include figure.liquid
+                  loading="eager"
+                  path=project.img
+                  sizes="200px"
+                  class="preview z-depth-1 rounded"
+                  zoomable=false
+                  avoid_scaling=true
+                  alt=project.title
+                %}
+              {% endif %}
+            {% endif %}
+          </div>
+          <div class="col-sm-8">
+            <div class="title" style="font-weight: bold;">{{ project.title }}</div>
+            {% if project.description %}
+              <div class="periodical" style="margin-top: 0.25em;">{{ project.description }}</div>
+            {% endif %}
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</div>
