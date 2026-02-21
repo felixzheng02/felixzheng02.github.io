@@ -31,3 +31,5 @@ latest_posts:
 I am a Robotics M.S.E. student at [GRASP Lab](https://www.grasp.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/), advised by [Prof. Nadia Figueroa](https://nbfigueroa.github.io/) and [Prof. Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). Prior to this, I received my B.S. in Computer Science and Mathematics from the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
 
 I work on scalable learning and planning for general, adaptable robots. I’m interested in building predictive models for decision-making, learning useful abstractions for long-horizon reasoning, and leveraging human data and feedback to improve robustness and generalization.
+
+Click on videos to zoom it!
