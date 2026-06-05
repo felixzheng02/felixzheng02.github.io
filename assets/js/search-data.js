@@ -377,8 +377,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-symskill-accepted-to-icra-2026",
-          title: 'SymSkill accepted to ICRA 2026',
+            },},{id: "news-symskill-accepted-to-icra-2026-best-conference-paper-award-and-best-paper-award-on-planning-and-control",
+          title: 'SymSkill accepted to ICRA 2026 (Best Conference Paper Award and Best Paper Award...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
