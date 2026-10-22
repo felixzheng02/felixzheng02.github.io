@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming Ph.D. student in Robotics at the Georgia Institute of Technology, advised by [Prof. Sonia Chernova](https://faculty.cc.gatech.edu/~chernova/). Previously, I finshed my M.S.E. in Robotics at [GRASP Lab](https://www.grasp.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/), advised by [Prof. Nadia Figueroa](https://nbfigueroa.github.io/) and [Prof. Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). I received my B.S. in Computer Science and Mathematics from the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
+I am an incoming Ph.D. student in Robotics at the Georgia Institute of Technology, advised by [Prof. Sonia Chernova](https://schernova.github.io/). Previously, I finshed my M.S.E. in Robotics at [GRASP Lab](https://www.grasp.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/), advised by [Prof. Nadia Figueroa](https://nbfigueroa.github.io/) and [Prof. Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). I received my B.S. in Computer Science and Mathematics from the [University of North Carolina at Chapel Hill](https://www.unc.edu/).
 
 My research focuses on robot learning, long-horizon manipulation, and human-robot interaction. My goal is to develop capable, adaptable, and reliable robots that provide meaningful assistance in everyday home environments.
 
