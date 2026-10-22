@@ -17,3 +17,35 @@
 "figueroa":
   - firstname: ["Nadia", "N."]
     url: https://nbfigueroa.github.io/
+
+"jadali":
+  - firstname: ["Nima", "N."]
+    url: https://www.nimajadali.com/
+
+"mehta":
+  - firstname: ["Ankit", "A."]
+    url: https://amehta265.github.io/
+
+"nakashima":
+  - firstname: ["Rena", "R."]
+    url: https://renanakashima.github.io/
+
+"srivatsa":
+  - firstname: ["Sumukha Suresh", "S. S."]
+    url: https://www.linkedin.com/in/sumukha-srivatsa/
+
+"mahamane":
+  - firstname: ["Nadira", "N."]
+    url: https://www.nadira.me/
+
+"muriki":
+  - firstname: ["Harsh", "H."]
+    url: https://harshmuriki.com/
+
+"spigarelli":
+  - firstname: ["Hannah", "H."]
+    url: https://www.linkedin.com/in/hannah-spigarelli/
+
+"chernova":
+  - firstname: ["Sonia", "S."]
+    url: https://faculty.cc.gatech.edu/~chernova/
